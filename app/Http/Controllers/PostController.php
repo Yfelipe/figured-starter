@@ -49,7 +49,7 @@ class PostController extends Controller
         $post->body = $request->input('body');
         $post->author = $request->input('author');
         if ($request->isMethod('put')) {
-            $post->id = $request->input('post_id');
+            $post->_id = $request->input('post_id');
         }
 
 
