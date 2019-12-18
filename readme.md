@@ -1,6 +1,6 @@
 # Figured Starter
 
-This is a starter for Laravel, running under Docker with MongoDB.
+This is a starter for Laravel with MongoDB.
  
 ## Get started
 MongoDB
